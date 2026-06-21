@@ -133,7 +133,9 @@ _Born and raised in Cu Chi district, I currently teach across 4 schools with div
 - [Generative AI & ChatGPT for K-12 Educators](https://coursera.org/verify/specialization/GRVJ6G2K1TKB)
 
 **Technical AI Depth**
-- Neural Networks and Deep Learning (DeepLearning.AI)
+- [Neural Networks and Deep Learning](https://coursera.org/verify/LH24NWK2EDDJ) (DeepLearning.AI)
+- [Structuring Machine Learning Projects](https://coursera.org/verify/VKXM7UN7W52Q) (DeepLearning.AI)
+- [Improving Deep Neural Networks](https://coursera.org/verify/P3W8USULM7LN) (DeepLearning.AI)
 - Statistical Learning (VIASM)
 - Data Science & ML Specializations (Stanford Online / DeepLearning.AI)
 

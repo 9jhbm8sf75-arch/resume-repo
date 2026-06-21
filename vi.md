@@ -133,7 +133,9 @@ _Sinh ra, lớn lên và làm việc tại khu vực huyện Củ Chi (cũ), tô
 - [Generative AI & ChatGPT for K-12 Educators](https://coursera.org/verify/specialization/GRVJ6G2K1TKB)
 
 **Kỹ thuật AI chuyên sâu**
-- Neural Networks and Deep Learning (DeepLearning.AI)
+- [Neural Networks and Deep Learning](https://coursera.org/verify/LH24NWK2EDDJ) (DeepLearning.AI)
+- [Structuring Machine Learning Projects](https://coursera.org/verify/VKXM7UN7W52Q) (DeepLearning.AI)
+- [Improving Deep Neural Networks](https://coursera.org/verify/P3W8USULM7LN) (DeepLearning.AI)
 - Statistical Learning (VIASM)
 - Data Science & ML Specializations (Stanford Online / DeepLearning.AI)
 
