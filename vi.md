@@ -137,7 +137,6 @@ _Sinh ra, lớn lên và làm việc tại khu vực huyện Củ Chi (cũ), tô
 - [Structuring Machine Learning Projects](https://coursera.org/verify/VKXM7UN7W52Q) (DeepLearning.AI)
 - [Improving Deep Neural Networks](https://coursera.org/verify/P3W8USULM7LN) (DeepLearning.AI)
 - Statistical Learning (VIASM)
-- Data Science & ML Specializations (Stanford Online / DeepLearning.AI)
 
 **Ngoại ngữ:** TOEIC 865/990 (2023)
 
