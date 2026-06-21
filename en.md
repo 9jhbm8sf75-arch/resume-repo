@@ -140,9 +140,9 @@ _Born and raised in Cu Chi district, I currently teach across 4 schools with div
 **Language:** TOEIC 865/990 (2023)
 
 ### Supplementary Courses
-- Online Education: Foundations of Online Teaching (Macquarie Univ.)
-- Create Video, Audio and Infographics for Online Learning
-- Philosophy of Cognitive Sciences (Univ. of Edinburgh)
+- [Online Education: Foundations of Online Teaching](https://coursera.org/verify/HY76L485NK4N) (Macquarie Univ.)
+- [Create Video, Audio and Infographics for Online Learning](https://coursera.org/verify/MDYRFH4Q9K7P)
+- [Philosophy of Cognitive Sciences](https://coursera.org/verify/KQAXRN997NGF) (Univ. of Edinburgh)
 - Math Summer School 2020 (Vietnam Institute of Mathematics) | 2019 (VIASM)
 - Qiskit Global Summer School 2020 (IBM Quantum)
 
