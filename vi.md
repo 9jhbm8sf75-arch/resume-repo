@@ -126,11 +126,11 @@ _Sinh ra, lớn lên và làm việc tại khu vực huyện Củ Chi (cũ), tô
 ### Chứng chỉ Quốc tế & Chuyên môn
 
 **Sư phạm AI & Lãnh đạo chuyển đổi số**
-- Navigating Generative AI for Leaders (Vanderbilt Univ.)
-- Prompt Engineering for Educators (Vanderbilt Univ.)
+- [Navigating Generative AI for Leaders](https://coursera.org/verify/specialization/052QDHQFEKC2) (Vanderbilt Univ.)
+- [Prompt Engineering for Educators](https://coursera.org/verify/specialization/XVU4UWTOP468) (Vanderbilt Univ.)
 - Google Gemini Certified Educator (Google)
 - Teaching AI Fluency Framework (Anthropic)
-- Generative AI & ChatGPT for K-12 Educators
+- [Generative AI & ChatGPT for K-12 Educators](https://coursera.org/verify/specialization/GRVJ6G2K1TKB)
 
 **Kỹ thuật AI chuyên sâu**
 - Neural Networks and Deep Learning (DeepLearning.AI)
@@ -144,7 +144,9 @@ _Sinh ra, lớn lên và làm việc tại khu vực huyện Củ Chi (cũ), tô
 - [Create Video, Audio and Infographics for Online Learning](https://coursera.org/verify/MDYRFH4Q9K7P)
 - [Philosophy of Cognitive Sciences](https://coursera.org/verify/KQAXRN997NGF) (Univ. of Edinburgh)
 - Trường hè Toán học 2020 (Viện Toán học) | 2019 (VIASM)
-- Qiskit Global Summer School 2020 (IBM Quantum)
+- [Know Thyself: The Unconscious](https://coursera.org/verify/LLBQHH5ZXGD8)
+- [Critical Thinking: A Brain-Based Guide for the ChatGPT Era](https://coursera.org/verify/specialization/E17P266ROAIN)
+- [Speak Freely, Think Critically: The Free Speech Balance Act](https://coursera.org/verify/AJUGYIICOW02)
 
 ---
 

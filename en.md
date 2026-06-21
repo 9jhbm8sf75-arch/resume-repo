@@ -126,11 +126,11 @@ _Born and raised in Cu Chi district, I currently teach across 4 schools with div
 ### International & Professional Certificates
 
 **AI Pedagogy & Digital Leadership**
-- Navigating Generative AI for Leaders (Vanderbilt Univ.)
-- Prompt Engineering for Educators (Vanderbilt Univ.)
+- [Navigating Generative AI for Leaders](https://coursera.org/verify/specialization/052QDHQFEKC2) (Vanderbilt Univ.)
+- [Prompt Engineering for Educators](https://coursera.org/verify/specialization/XVU4UWTOP468) (Vanderbilt Univ.)
 - Google Gemini Certified Educator (Google)
 - Teaching AI Fluency Framework (Anthropic)
-- Generative AI & ChatGPT for K-12 Educators
+- [Generative AI & ChatGPT for K-12 Educators](https://coursera.org/verify/specialization/GRVJ6G2K1TKB)
 
 **Technical AI Depth**
 - Neural Networks and Deep Learning (DeepLearning.AI)
@@ -144,7 +144,9 @@ _Born and raised in Cu Chi district, I currently teach across 4 schools with div
 - [Create Video, Audio and Infographics for Online Learning](https://coursera.org/verify/MDYRFH4Q9K7P)
 - [Philosophy of Cognitive Sciences](https://coursera.org/verify/KQAXRN997NGF) (Univ. of Edinburgh)
 - Math Summer School 2020 (Vietnam Institute of Mathematics) | 2019 (VIASM)
-- Qiskit Global Summer School 2020 (IBM Quantum)
+- [Know Thyself: The Unconscious](https://coursera.org/verify/LLBQHH5ZXGD8)
+- [Critical Thinking: A Brain-Based Guide for the ChatGPT Era](https://coursera.org/verify/specialization/E17P266ROAIN)
+- [Speak Freely, Think Critically: The Free Speech Balance Act](https://coursera.org/verify/AJUGYIICOW02)
 
 ---
 
